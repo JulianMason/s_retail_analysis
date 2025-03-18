@@ -1,6 +1,6 @@
 # Retail Storage Space Optimization Analysis
 
-This project analyzes the impact of the UK's Minimum Wage Increase (MWI) on self-storage business operations and identifies optimization opportunities across manned (premium) and unmanned (budget) locations.
+This project analyzes the impact of the UK's Minimum Wage Increase (MWI) on storage business operations and identifies optimization opportunities across manned (premium) and unmanned (budget) locations.
 
 ## Technologies Used
 - Python 3.8+
