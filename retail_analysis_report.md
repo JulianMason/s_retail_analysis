@@ -6,7 +6,7 @@ This analysis examines the impact of the UK's Minimum Wage Increase (MWI) on our
 ## 1. Data Investigation & Cleaning
 
 ### Data Quality Overview
-![Data Quality Analysis](visualizations/analysis/segment_discovery.png)
+![Data Quality Analysis](visualizations/segment_discovery.png)
 
 - Comprehensive data quality assessment performed across all key metrics
 - Missing values identified and addressed in customer records and contract data
@@ -15,7 +15,7 @@ This analysis examines the impact of the UK's Minimum Wage Increase (MWI) on our
 - Duplicate records identified and removed
 
 ### Data Cleaning Process
-![Data Cleaning Analysis](visualizations/analysis/customer_clustering.png)
+![Data Cleaning Analysis](visualizations/customer_clustering.png)
 
 - Monthly rate outliers identified and adjusted
 - Unit size distribution normalized
@@ -26,7 +26,7 @@ This analysis examines the impact of the UK's Minimum Wage Increase (MWI) on our
 ## 2. Business Cost Analysis
 
 ### Overall Cost Structure
-![Business Cost Analysis](visualizations/analysis/financial_impact.png)
+![Business Cost Analysis](visualizations/financial_impact.png)
 
 - Labour: 45% (highest cost component)
 - Marketing: 15%
@@ -77,7 +77,7 @@ This analysis examines the impact of the UK's Minimum Wage Increase (MWI) on our
 ## 3. Revenue Analysis
 
 ### Customer Profile Analysis
-![Revenue Performance Analysis](visualizations/analysis/revenue_by_size.png)
+![Revenue Performance Analysis](visualizations/revenue_by_size.png)
 
 1. Business Customers
    - Revenue contribution: 45%
@@ -113,7 +113,7 @@ This analysis examines the impact of the UK's Minimum Wage Increase (MWI) on our
 ## 4. Key Insights
 
 ### Enquiry Distribution Analysis
-![Enquiry Distribution Analysis](visualizations/analysis/enquiry_channel_analysis.png)
+![Enquiry Distribution Analysis](visualizations/enquiry_channel_analysis.png)
 
 #### Enquiry Patterns Throughout the Day
 1. Peak Hours by Channel:
@@ -155,7 +155,7 @@ This analysis examines the impact of the UK's Minimum Wage Increase (MWI) on our
 ## 5. Recommendations
 
 ### Optimization Opportunities
-![Optimization Opportunities](visualizations/analysis/conversion_analysis.png)
+![Optimization Opportunities](visualizations/conversion_analysis.png)
 
 1. Labour Hours Adjustment
    - Reduce reception and caretaker hours from 42.5 to 40 hours per week
@@ -228,7 +228,7 @@ This analysis examines the impact of the UK's Minimum Wage Increase (MWI) on our
    - Quarterly strategy adjustment
 
 ### Seasonal Patterns
-![Seasonal Analysis](visualizations/analysis/seasonal_patterns.png)
+![Seasonal Analysis](visualizations/seasonal_patterns.png)
 
 ### Customer Lifecycle
 ![Customer Lifecycle Analysis](visualizations/analysis/customer_lifecycle.png)
