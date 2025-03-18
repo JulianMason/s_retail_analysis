@@ -210,28 +210,11 @@ This analysis examines the impact of the UK's Minimum Wage Increase (MWI) on our
    - Planning: Clear signage and digital notifications
    - Support: Extended customer service hours during transition
 
-## 8. Next Steps
-
-1. Review and Approval
-   - Present findings to management
-   - Secure budget allocation
-   - Set implementation timeline
-
-2. Implementation Planning
-   - Develop detailed project plan
-   - Assign responsibilities
-   - Set up monitoring systems
-
-3. Monitoring and Adjustment
-   - Weekly progress reviews
-   - Monthly impact assessment
-   - Quarterly strategy adjustment
-
 ### Seasonal Patterns
 ![Seasonal Analysis](visualizations/seasonal_patterns.png)
 
 ### Customer Lifecycle
-![Customer Lifecycle Analysis](visualizations/analysis/customer_lifecycle.png)
+![Customer Lifecycle Analysis](visualizations/customer_lifecycle.png)
 
 ### Implementation Timeline
-![Implementation Timeline](visualizations/analysis/implementation_timeline.png) 
+![Implementation Timeline](visualizations/implementation_timeline.png) 
